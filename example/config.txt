@@ -1,0 +1,3 @@
+Prefix pipelines/Checknumber/example
+Plugin ListEven inputfile firstinput.txt outputfile result1.txt
+Plugin OddNumber inputfile result1.txt outputfile oddnumberoutput.txt
